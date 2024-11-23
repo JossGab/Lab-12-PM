@@ -42,6 +42,7 @@ android {
 
 dependencies {
 
+    implementation(libs.play.services.location)
     val mapsComposeVersion = "4.4.1"
 
     // Google Maps Compose
